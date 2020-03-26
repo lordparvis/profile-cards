@@ -39,6 +39,12 @@ Use either an HTML, CSS, JS Repl, or create a project folder with `index.html` &
 
 - Elements can be made to appear circular by using `border-radius: 50%;`.
 
+- As an image placeholder feel free to use picsum
+
+```html
+<img src="https://picsum.photos/200/200" alt="john" />
+```
+
 ## Bonus
 
 As a bonus, reproduce both the vertical and horizontal versions!
