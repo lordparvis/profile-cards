@@ -45,6 +45,13 @@ Use either an HTML, CSS, JS Repl, or create a project folder with `index.html` &
 <img src="https://picsum.photos/200/200" alt="john" />
 ```
 
+- To have access to the icons we are using font awesome which is already set up in the html. The star has been provided, but research the font awesome documentation on how to get the other icons.
+[Font Awesome](https://fontawesome.com/icons?d=gallery)
+```html
+<i class="fas fa-star"></i> <!-- star -->
+
+```
+
 ## Bonus
 
 As a bonus, reproduce both the vertical and horizontal versions!
